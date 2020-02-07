@@ -15,7 +15,7 @@ Katsu for three four people plus some delish curry
 - 0.5 packets golden curry
 - 1 pound potatoes, diced into bite-sized chunks
 - 4 carrots, sliced into bite-sized chunks
-- 0.5 onions, diced small
+- 1 onion, diced small
 - 3 cloves garlic, diced small
 
 ## Utilities
@@ -31,8 +31,6 @@ Katsu for three four people plus some delish curry
 ### Rice
 1. Put **three cups** of water with **1 cup** of rice in the rice cooker. Cook
    for forty minutes.
-   - Use put a little extra water in between rice container and cooking
-     aparatus to heat more easily.
 
 ### Curry (15 minutes after rice starts)
 
@@ -51,8 +49,11 @@ Katsu for three four people plus some delish curry
 3. Salt and pepper each piece.
 4. Coat chicken in a little bit a flour, a generous amount of eggs, and a very
    generous amount of Penko bread crumbs.
+   - If you like a super crispy skin that may even fall off the chicken, double
+     coat the egg and bread crumbs.
    - I like to let curry do the seasoning, but feel free to add more seasoning
-     to Penko bread crumbs.
+     to Penko bread crumbs (grated garlic, cheese, sage, red chili flakes,
+     etc.)
 5. Fry each piece of meat in vegetable oil, about 3.25 minutes per side.
 
 ### Final
