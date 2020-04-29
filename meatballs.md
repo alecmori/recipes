@@ -14,7 +14,7 @@ Generally goes good with a tomato sauce that is very basil heavy.
 - 2 tablespoons of parsley
 - 2 teaspoons onion powder
 - 4 cloves of Garlic
-- 1 (plus) cups olive oil
+- 0.5 (plus) cups olive oil
 - Copious amounts of salt, pepper
 
 ## Utilities
