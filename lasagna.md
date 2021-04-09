@@ -2,6 +2,10 @@
 
 Makes a mean lasagna - cheese is the bright spot
 
+## Time
+
+3 Hours
+
 ## Makes
 
 One tightly packed 9" x 13" pan or lasagna
@@ -42,7 +46,7 @@ One tightly packed 9" x 13" pan or lasagna
 ## Recipe
 
 1. Mince garlic and onions.
-2. Heat pot on medium-high heat. Once hot, throw onions, salt, peppers, and
+2. Heat pot on medium-high heat. Once hot, throw onions, salt, pepper, and
    olive oil in. One minute later, add turkey and sausage. One minute later,
    add garlic. Constantly stir.
 3. Once meat is mostly cooked through, add all tomatoes, basil, parsley, fennel
