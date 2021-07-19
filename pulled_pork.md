@@ -46,5 +46,5 @@ One slow cooker full of pulled pork, roughly 16 burgers
 
 Want to start cooking this at least a day before
 
-Served on toasted brioche buns, on cornbread, or on macaroni and cheese. Goes well with
+Served on toasted brioche buns, or cornbread, or on macaroni and cheese. Goes well with
 brussel sprouts.
