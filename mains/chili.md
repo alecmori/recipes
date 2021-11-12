@@ -4,7 +4,7 @@
 
 ## Makes
 
-One slow cooker full of chili, maybe 12-16 bowls?
+One slow cooker full of chili, roughly 12-16 bowls
 
 ## Ingredients
 
