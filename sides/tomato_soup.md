@@ -9,7 +9,7 @@
 - 6 oz tomato paste
 - 24 oz milk
 - 1 clove garlic
-- 1 stalk of celery
+- 0.5 stalks of celery
 - 0.5 onions
 - 1 tsp of olive oil
 - Salt to taste
